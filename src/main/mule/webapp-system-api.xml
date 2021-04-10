@@ -149,7 +149,7 @@ output application/json
 output application/json
 ---
 {
-	"StatusCode": 201,
+
   Message: "Quotation created"
 }]]></ee:set-payload>
             </ee:message>
